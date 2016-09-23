@@ -1,0 +1,8 @@
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\bin\Debug\MyCalculatorWCFServiceHost.exe.config
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\bin\Debug\MyCalculatorWCFServiceHost.exe
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\bin\Debug\MyCalculatorWCFServiceHost.pdb
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\bin\Debug\MyCalculatorService.dll
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\bin\Debug\MyCalculatorService.pdb
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\obj\Debug\MyCalculatorWCFServiceHost.csprojResolveAssemblyReference.cache
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\obj\Debug\MyCalculatorWCFServiceHost.exe
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\MyCalculatorWCFServiceHost\MyCalculatorWCFServiceHost\obj\Debug\MyCalculatorWCFServiceHost.pdb

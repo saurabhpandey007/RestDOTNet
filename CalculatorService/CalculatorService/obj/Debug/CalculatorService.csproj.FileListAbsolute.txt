@@ -1,0 +1,6 @@
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll.config
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.pdb
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+c:\users\nehamau_crm\documents\visual studio 2012\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb
